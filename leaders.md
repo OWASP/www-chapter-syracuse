@@ -1,4 +1,4 @@
 ### Leaders
 
-* [Jeff Foley](mailto:jeff.foley@owasp.org)
-* [David St. Laurent](mailto:david.stlaurent@owasp.org)
+* [Adam Horeth](mailto:adam.horeth@owasp.org)
+* [Rod Castillo](mailto:rod.castillo@owasp.org)
