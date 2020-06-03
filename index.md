@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Syracuse
 tags: syracuse
-level: 4
+level: 3
 
 region: United States
 
