@@ -2,8 +2,8 @@
 
 layout: col-sidebar
 title: OWASP Syracuse
-tags: example-tag
-level: 0
+tags: syracuse
+level: 4
 
 region: United States
 
