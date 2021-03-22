@@ -3,10 +3,10 @@
 layout: col-sidebar
 title: OWASP Syracuse
 tags: syracuse
-level: 3
-
+level: 4
 region: United States
-
+meetup-group: Syracuse-OWASP-Chapter
+postal-code: 13601
 auto-migrated: 1
 
 ---
@@ -25,5 +25,3 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 ## Local News
 - Meetings are held via teleconfrencing applications.
 - Everyone is welcome to join us at our chapter meetings.
-
-he
