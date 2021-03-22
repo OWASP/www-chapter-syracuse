@@ -10,7 +10,15 @@ region: United States
 auto-migrated: 1
 
 ---
-{info.md}
+
+## Next Meeting/Event(s)
+---------------------
+{% include chapter_events.html group=page.meetup-group %}
+
+OWASP Syracuse Chapter meetings are posted on our MeetUp Page:
+
+Please visit <a href="https://www.meetup.com/Syracuse-OWASP-Chapter/">https://www.meetup.com/Syracuse-OWASP-Chapter/</a> OWASP Syracuse MeetUp site for Syracuse Chapter event information.
+
 ## Welcome
 Hello and welcome to the Syracuse area OWASP meetup.
 Below you'll find the link to our meetup site. Hope to see you soon!
