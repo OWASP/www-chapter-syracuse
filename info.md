@@ -3,3 +3,6 @@
 
 ### Meetup Site
 * [Meetup](https://www.meetup.com/Syracuse-OWASP-Chapter/)
+
+### Social Links
+* [Linkedin](https://www.linkedin.com/company/keyes-security/)
