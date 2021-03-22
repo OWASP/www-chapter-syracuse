@@ -1,11 +1,14 @@
 ---
-title: About
+
+title: about
+displaytext: About Us
 layout:  null
 tab: true
-order: 2
+order: 4
 tags: about-tag
+
 ---
 
-## Example
+## About Us
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+Hello
