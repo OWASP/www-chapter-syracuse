@@ -10,7 +10,7 @@ region: United States
 auto-migrated: 1
 
 ---
-
+{info.md}
 ## Welcome
 Hello and welcome to the Syracuse area OWASP meetup.
 Below you'll find the link to our meetup site. Hope to see you soon!
