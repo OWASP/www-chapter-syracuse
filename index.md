@@ -8,9 +8,7 @@ region: United States
 meetup-group: Syracuse-OWASP-Chapter
 postal-code: 13601
 auto-migrated: 1
-{% include chapter_events.html group=page.meetup-group %}
 ---
-
 
 ## Welcome
 Welcome to OWASP Syracuse. Central NY's meetup 
