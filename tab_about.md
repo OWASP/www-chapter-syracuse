@@ -1,8 +1,9 @@
 ---
 title: About
 layout:  null
+displaytext: About Us
 tab: true
-order: 1
+order: 2
 tags: about-tag
 ---
 
