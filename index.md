@@ -9,7 +9,6 @@ meetup-group: Syracuse-OWASP-Chapter
 postal-code: 13601
 
 {% include chapter_events.html group=page.meetup-group %}
-
 ---
 
 
