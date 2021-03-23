@@ -10,6 +10,7 @@ postal-code: 13601
 auto-migrated: 1
 
 ---
+{% include chapter_events.html group=page.meetup-group %}
 
 ## Welcome
 Include some information here about your chapter
