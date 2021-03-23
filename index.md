@@ -3,10 +3,9 @@
 layout: col-sidebar
 title: OWASP Syracuse
 tags: syracuse
-level: 3
 region: United States
-meetup-group: Syracuse-OWASP-Chapter
 postal-code: 13601
+meetup-group: Syracuse-OWASP-Chapter
 {% include chapter_events.html group=page.meetup-group %}
 
 ---
