@@ -6,7 +6,7 @@ tags: syracuse
 region: United States
 postal-code: 13601
 meetup-group: Syracuse-OWASP-Chapter
-
+auto-migrated: 1
 
 ---
 
