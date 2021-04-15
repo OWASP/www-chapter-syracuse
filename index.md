@@ -17,6 +17,9 @@ meetup-group: Syracuse-OWASP-Chapter
 Welcome to the Syracuse area OWASP chapter. Our goal is to meet with like-minded individuals who are interested in advancing the field of cybersecurity. We plan to 
 host tech talks and 
 
+### Previous Meetings
+[Reorganizational Meeting](https://www.meetup.com/Syracuse-OWASP-Chapter/events/277091425/)
+
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
 
