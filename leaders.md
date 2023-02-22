@@ -1,6 +1,6 @@
 ### Leaders
 
 * [Adam Horeth](mailto:adam.horeth@owasp.org)
-* [Roderick Castillo](mailto:rod.castillo@owasp.org)
-* [Quentin Hatcher](mailto:quentin.hatcher@owasp.org)
+* [Gavin Doucette](mailto:gavin.doucette97@gmail.com)
+* [Rod Castillo](mailto:rod.castillo@owasp.org)
 
