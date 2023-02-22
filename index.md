@@ -9,14 +9,12 @@ postal-code: 13601
 meetup-group: Syracuse-OWASP-Chapter
 
 ---
-
-## Our Next Meetup
-Upcoming Meeting:
-8-MAR-2023: [Reorganizational Meeting](https://www.meetup.com/syracuse-owasp-chapter/events/291793005/?isFirstPublish=true)
-
 ## Welcome
 Welcome to the Syracuse area OWASP chapter. Our goal is to meet with like-minded individuals who are interested in advancing the field of cybersecurity. We plan to 
 host tech talks and 
+
+## Our Next Meetup
+8-MAR-2023: [Reorganizational Meeting](https://www.meetup.com/syracuse-owasp-chapter/events/291793005/?isFirstPublish=true)
 
 ### Previous Meetings
 25-MAR-2021: [Reorganizational Meeting](https://www.meetup.com/Syracuse-OWASP-Chapter/events/277091425/)
