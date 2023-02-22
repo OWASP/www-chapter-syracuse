@@ -21,7 +21,7 @@ host tech talks and
 25-MAR-2021: [Reorganizational Meeting](https://www.meetup.com/Syracuse-OWASP-Chapter/events/277091425/)
 
 ## Chapter Information
-The Syracuse chapter is lead by Adam Horeth, Quentin Hatcher, and Rod Castillo. We plan to provide training and networking opportunities for Cybersecurity professionals, students, enthusiasts, and businesses within the Syracuse, central New York, and the North Country.
+The Syracuse chapter is lead by Adam Horeth, Gavin Doucette, and Rod Castillo. We plan to provide training and networking opportunities for Cybersecurity professionals, students, enthusiasts, and businesses within the Syracuse, central New York, and the North Country.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
