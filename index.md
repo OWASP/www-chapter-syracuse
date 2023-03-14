@@ -13,7 +13,7 @@ meetup-group: Syracuse-OWASP-Chapter
 * 8-MAR-2023: [Reorganizational Meeting](https://www.meetup.com/syracuse-owasp-chapter/events/291793005/?isFirstPublish=true)
 * 15-MAR-2023: [Threathunting Okta using Elastic](https://www.meetup.com/syracuse-owasp-chapter/events/291839772/?isFirstPublish=true)
 
-Next Meeting/Event 
+## Next Meeting/Event 
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
