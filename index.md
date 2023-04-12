@@ -10,8 +10,7 @@ meetup-group: Syracuse-OWASP-Chapter
 
 ---
 ## Our Next Meetup
-* 8-MAR-2023: [Reorganizational Meeting](https://www.meetup.com/syracuse-owasp-chapter/events/291793005/?isFirstPublish=true)
-* 15-MAR-2023: [Threathunting Okta using Elastic](https://www.meetup.com/syracuse-owasp-chapter/events/291839772/?isFirstPublish=true)
+* 21-APR-2023: [2022 Common AWS Breaches](https://www.meetup.com/syracuse-owasp-chapter/events/292846413/?isFirstPublish=true)
 
 ## Next Meeting/Event 
 ---------------------
