@@ -5,6 +5,7 @@ title: OWASP Syracuse
 tags: chapter
 level: 0
 region: North America
+country: USA
 postal-code: 13601
 meetup-group: Syracuse-OWASP-Chapter
 
