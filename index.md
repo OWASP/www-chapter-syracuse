@@ -23,11 +23,11 @@ Welcome to the Syracuse area OWASP chapter. Our goal is to meet with like-minded
 host tech talks and networking events.
 
 ### Previous Meetings
-25-MAR-2021: [Reorganizational Meeting](https://www.meetup.com/Syracuse-OWASP-Chapter/events/277091425/)
-08-MAR-2023: [Reorganizational Meeting](https://www.meetup.com/syracuse-owasp-chapter/events/291793005/)
-15-MAR-2023: [Threathunting Okta with Elastic](https://www.meetup.com/syracuse-owasp-chapter/events/291841528/)
-21-APR-2023: [2022 Common AWS Breaches](https://www.meetup.com/syracuse-owasp-chapter/events/292846413/)
-13-OCT-2023: [Unlocking Cybersecurity Insights: New Open Source Tools for Defense Modeling](https://www.meetup.com/syracuse-owasp-chapter/events/296273644/)
+-25-MAR-2021: [Reorganizational Meeting](https://www.meetup.com/Syracuse-OWASP-Chapter/events/277091425/)
+-08-MAR-2023: [Reorganizational Meeting](https://www.meetup.com/syracuse-owasp-chapter/events/291793005/)
+-15-MAR-2023: [Threathunting Okta with Elastic](https://www.meetup.com/syracuse-owasp-chapter/events/291841528/)
+-21-APR-2023: [2022 Common AWS Breaches](https://www.meetup.com/syracuse-owasp-chapter/events/292846413/)
+-13-OCT-2023: [Unlocking Cybersecurity Insights: New Open Source Tools for Defense Modeling](https://www.meetup.com/syracuse-owasp-chapter/events/296273644/)
 
 
 ## Chapter Information
