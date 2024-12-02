@@ -11,7 +11,8 @@ meetup-group: Syracuse-OWASP-Chapter
 
 ---
 ## Our Next Meetup
-* 15-Dec-2023: [Cybersecurity Careers: Insights from a Panel of Security Leaders](https://www.meetup.com/syracuse-owasp-chapter/events/296891549/?isFirstPublish=true)
+* 6-Dec-2024: [Reorganizational Meeting]()
+* 6-Dec-2024: [Mock Interviews with a Panel of Senior Security and Program Leaders]()
 
 ## Next Meeting/Event 
 ---------------------
@@ -28,6 +29,7 @@ host tech talks and networking events.
 * 15-MAR-2023: [Threathunting Okta with Elastic](https://www.meetup.com/syracuse-owasp-chapter/events/291841528/)
 * 21-APR-2023: [2022 Common AWS Breaches](https://www.meetup.com/syracuse-owasp-chapter/events/292846413/)
 * 13-OCT-2023: [Unlocking Cybersecurity Insights: New Open Source Tools for Defense Modeling](https://www.meetup.com/syracuse-owasp-chapter/events/296273644/)
+* 15-Dec-2023: [Cybersecurity Careers: Insights from a Panel of Security Leaders](https://www.meetup.com/syracuse-owasp-chapter/events/296891549/?isFirstPublish=true)
 
 
 ## Chapter Information
