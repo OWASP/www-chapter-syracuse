@@ -12,7 +12,7 @@ meetup-group: Syracuse-OWASP-Chapter
 ---
 ## Our Next Meetup
 * 6-Dec-2024: [Reorganizational Meeting](https://www.meetup.com/syracuse-owasp-chapter/events/304878227/?slug=syracuse-owasp-chapter&eventId=304878227)
-* 6-Dec-2024: [Mock Interviews with a Panel of Senior Security and Program Leaders]()
+* 6-Dec-2024: [Mock Interviews: Entry-Level Security Analyst and Project Manager](https://www.meetup.com/syracuse-owasp-chapter/events/304878632/?slug=syracuse-owasp-chapter&isFirstPublish=true)
 
 ## Next Meeting/Event 
 ---------------------
