@@ -11,8 +11,8 @@ meetup-group: Syracuse-OWASP-Chapter
 
 ---
 ## Our Next Meetup
-* 6-Dec-2024: [Reorganizational Meeting](https://www.meetup.com/syracuse-owasp-chapter/events/304878227/?slug=syracuse-owasp-chapter&eventId=304878227)
-* 6-Dec-2024: [Mock Interviews: Entry-Level Security Analyst and Project Manager](https://www.meetup.com/syracuse-owasp-chapter/events/304878632/?slug=syracuse-owasp-chapter&isFirstPublish=true)
+* 15-Oct-2025: [Building AI Cybersecurity Agents with Microsoft Copilot Studio](https://www.meetup.com/syracuse-owasp-chapter/events/311470684)
+* TBD-Dec-2024: [Mock Interviews: Entry-Level Security Analyst and Project Manager]
 
 ## Next Meeting/Event 
 ---------------------
@@ -30,6 +30,7 @@ host tech talks and networking events.
 * 21-APR-2023: [2022 Common AWS Breaches](https://www.meetup.com/syracuse-owasp-chapter/events/292846413/)
 * 13-OCT-2023: [Unlocking Cybersecurity Insights: New Open Source Tools for Defense Modeling](https://www.meetup.com/syracuse-owasp-chapter/events/296273644/)
 * 15-Dec-2023: [Cybersecurity Careers: Insights from a Panel of Security Leaders](https://www.meetup.com/syracuse-owasp-chapter/events/296891549/?isFirstPublish=true)
+* 6-Dec-2024: [Mock Interviews: Entry-Level Security Analyst and Project Manager](https://www.meetup.com/syracuse-owasp-chapter/events/304878632/?slug=syracuse-owasp-chapter&isFirstPublish=true)
 
 
 ## Chapter Information
