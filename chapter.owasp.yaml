@@ -1,0 +1,30 @@
+leaders:
+  - name: Adam Horeth
+    email: adam.horeth@owasp.org
+    github: ChanceCarmichael
+  - name: Gavin Doucette
+    email: gavin.doucette97@gmail.com
+  - name: Rod Castillo
+    email: rod.castillo@owasp.org
+    github: castillorm
+  - name: Thomas Reeves
+    email: tj.reeves@owasp.org
+location:
+  country: USA
+  country_code: US
+  region: New York
+  city: Syracuse
+  postal_code: '13601'
+  latitude: 43.069085799999996
+  longitude: -76.17237865464517
+meetup_group: Syracuse-OWASP-Chapter
+name: OWASP Syracuse
+repositories:
+  - name: www-chapter-syracuse
+    url: https://github.com/OWASP/www-chapter-syracuse
+    description: OWASP Foundation Web Repository
+tags:
+  - chapter
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-syracuse
